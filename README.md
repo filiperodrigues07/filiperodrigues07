@@ -25,6 +25,7 @@
     <a href="" target="_blank"> <img src= "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
     <a href="" target="_blank"> <img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     
-    ![Snake animation](https://github.com/filiperodrigues07/filiperodrigues07/blob/output/github-contribution-grid-snake.svg)
+    ![Snake animation]
+    (https://github.com/filiperodrigues07/filiperodrigues07/blob/output/github-contribution-grid-snake.svg)
     
   </div>
