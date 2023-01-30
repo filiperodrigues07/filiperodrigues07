@@ -12,13 +12,18 @@
     <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filiperodrigues07&layout=compact&langs_count=16&theme=merko" />
 </div>
   <div style="display: incline_block"><br>
-     <img align="center" alt="Lipe-PHP" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-     <img align="center" alt="Lipe-HTML" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-     <img align="center" alt="Lipe-CSS" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+    <img align="center" alt="Lipe-PHP" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+    <img align="center" alt="Lipe-HTML" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+    <img align="center" alt="Lipe-CSS" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
     <img align="center" alt="Lipe-C" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
     <img align="center" alt="Lipe-C++" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-  </div>
+ 
   
+  <div>
+   <img align="right" alt="Gif" heigth="140" width="140" src="https://media4.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e472vw4dddi6ilaxjmweg0qtgt0jc27iojie54gahp4&rid=giphy.gif&ct=g" />
+  </div>
+    
+    
   ##
   
   <div>
