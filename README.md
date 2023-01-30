@@ -26,6 +26,6 @@
     <a href="https://www.linkedin.com/in/filipe-rodrigues07/" target="_blank"> <img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     <a href="" target="_blank"> <img src= "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
     <a href="filiperodrigueshomework@gmail.com" target="_blank"> <img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+
+  ![snake gif](https://github.com/filiperodrigues07/filiperodrigues07/blob/output/github-contribution-grid-snake.svg) 
   </div>
-  
- ![snake gif](https://github.com/filiperodrigues07/filiperodrigues07/blob/output/github-contribution-grid-snake.svg) 
