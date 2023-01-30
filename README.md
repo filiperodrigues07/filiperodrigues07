@@ -1,8 +1,8 @@
 ### Olá, Eu sou o Filipe Rodrigues!
 
 
-- 🔭 Hoje eu trabalho com Analista de Suporte, em breve um Dev.
-- 🌱 Estudando PHP, HTML e CSS
+- 🔭 Hoje trabalho com Analista de Suporte, em breve um Dev.
+- 👨🏻‍💻 Estudando PHP, HTML e CSS
 - 😄 Pronouns: ele/dele
 
 
