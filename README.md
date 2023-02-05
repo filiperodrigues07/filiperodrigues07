@@ -9,7 +9,7 @@
 
 ### 
 
-- 🔭 Today I work with a Support Analyst, soon a Dev.
+- 🔭 Today I work with a Support Analyst, soon a Developer.
 - 👨🏻‍💻 Studying PHP, JavaScript, HTML and CSS
 - 🇧🇷 Brazil
 
