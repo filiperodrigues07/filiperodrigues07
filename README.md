@@ -9,8 +9,8 @@
 
 ### 
 
-- 🔭 Hoje trabalho com Analista de Suporte, em breve um Dev.
-- 👨🏻‍💻 Estudando PHP, JavaScript, HTML e CSS 
+- 🔭 Today I work with a Support Analyst, soon a Dev.
+- 👨🏻‍💻 Studying PHP, JavaScript, HTML and CSS
 
 
 <div>
