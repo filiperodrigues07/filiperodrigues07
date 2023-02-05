@@ -3,7 +3,7 @@
 <!-- Header typing -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá,+prazer!+👋;Eu sou+Filipe+Rodrigues,+18+anos...;Nice+to+meet+you!&center=true&size=25">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá,+prazer!+👋;Eu sou+Filipe+Rodrigues,+18+yo...;Nice+to+meet+you!&center=true&size=25">
   </a>
 </h1>
 
@@ -11,7 +11,7 @@
 
 
 - 🔭 Hoje trabalho com Analista de Suporte, em breve um Dev.
-- 👨🏻‍💻 Estudando PHP, HTML e CSS
+- 👨🏻‍💻 Estudando PHP, JavaScript, HTML e CSS 
 
 
 <div>
