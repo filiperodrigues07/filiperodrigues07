@@ -11,6 +11,7 @@
 
 - 🔭 Today I work with a Support Analyst, soon a Dev.
 - 👨🏻‍💻 Studying PHP, JavaScript, HTML and CSS
+- 🇧🇷 Brazil
 
 
 <div>
