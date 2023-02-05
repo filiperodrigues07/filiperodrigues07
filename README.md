@@ -12,6 +12,14 @@
     <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filiperodrigues07&layout=compact&langs_count=16&theme=merko" />
 </div>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=header"/>
+
+<!-- Header typing -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+there!+👋;I'm+Andresa+Maciel,+24+yo...;Nice+to+meet+you!&center=true&size=25">
+  </a>
+</h1>
    
   <div style="display: incline_block"><br>
     <img align="center" alt="Lipe-PHP" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
