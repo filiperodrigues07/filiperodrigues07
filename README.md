@@ -25,7 +25,7 @@
     <img align="center" alt="Lipe-HTML" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     <img align="center" alt="Lipe-CSS" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
     <img align="center" alt="Lipe-C" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-    <img align="center" alt="Lipe-C++" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+    <img align="center" alt="Lipe-JS" heigth="30" width="40" src="" />
   </div>
   </br>
   
