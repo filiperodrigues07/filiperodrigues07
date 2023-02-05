@@ -7,8 +7,7 @@
   </a>
 </h1>
 
-### Olá, Eu sou o Filipe Rodrigues!
-
+### 
 
 - 🔭 Hoje trabalho com Analista de Suporte, em breve um Dev.
 - 👨🏻‍💻 Estudando PHP, JavaScript, HTML e CSS 
