@@ -1,17 +1,3 @@
-### Olá, Eu sou o Filipe Rodrigues!
-
-
-- 🔭 Hoje trabalho com Analista de Suporte, em breve um Dev.
-- 👨🏻‍💻 Estudando PHP, HTML e CSS
-- 😄 Pronouns: ele/dele
-
-
-<div>
-  <a href="https://github.com/filiperodrigues07">
-    <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=filiperodrigues07&show_icons=true&theme=merko" />
-    <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filiperodrigues07&layout=compact&langs_count=16&theme=merko" />
-</div>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=header"/>
 
 <!-- Header typing -->
@@ -20,6 +6,20 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+there!+👋;I'm+Filipe+Rodrigues,+18+anos...;Nice+to+meet+you!&center=true&size=25">
   </a>
 </h1>
+
+### Olá, Eu sou o Filipe Rodrigues!
+
+
+- 🔭 Hoje trabalho com Analista de Suporte, em breve um Dev.
+- 👨🏻‍💻 Estudando PHP, HTML e CSS
+
+
+<div>
+  <a href="https://github.com/filiperodrigues07">
+    <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=filiperodrigues07&show_icons=true&theme=merko" />
+    <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filiperodrigues07&layout=compact&langs_count=16&theme=merko" />
+</div>
+
    
   <div style="display: incline_block"><br>
     <img align="center" alt="Lipe-PHP" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
