@@ -44,4 +44,4 @@
     <a href="filiperodrigueshomework@gmail.com" target="_blank"> <img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </div>
 
-![snake gif](https://github.com/Formandodev/Formandodev/blob/output/github-contribution-grid-snake.svg)
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/dantonbertuol/dantonbertuol/blob/output/github-contribution-grid-snake.svg"><img src="https://github.com/dantonbertuol/dantonbertuol/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;"></a></p>
