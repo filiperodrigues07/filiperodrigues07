@@ -3,7 +3,7 @@
 <!-- Header typing -->
 <h1 align="center">
   <a href="">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+world!+👋;I'm+Filipe+Rodrigues,+19+yo...;Nice+to+meet+you!&center=true&size=20">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+world!+👋;I'm+Filipe+Rodrigues,+20+yo...;Nice+to+meet+you!&center=true&size=20">
   </a>
 </h1>
 
@@ -28,12 +28,7 @@
     <img align="center" alt="Lipe-CSS" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
     <img align="center" alt="Lipe-C" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   </div>
-  </br>
-  
-  <div>
-   <img align="right" alt="Gif" heigth="100" width="100" src="https://media4.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e472vw4dddi6ilaxjmweg0qtgt0jc27iojie54gahp4&rid=giphy.gif&ct=g" />
-  </div>
-    
+  </br> 
     
   ##
   
