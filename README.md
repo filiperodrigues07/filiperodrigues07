@@ -1,12 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=header"/>
-
-<!-- Header typing -->
-<h1 align="center">
-  <a href="">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+world!+👋;Eu sou+Filipe+Rodrigues,+20+anos...;Nice+to+meet+you!&center=true&size=20">
-  </a>
-</h1>
-
 ### 
 
 - 🔭 Trabalho atualmente como Analista de Suporte, mas nas horas vagas um Desenvolvedor.
