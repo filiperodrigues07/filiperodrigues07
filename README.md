@@ -3,7 +3,7 @@
 <!-- Header typing -->
 <h1 align="center">
   <a href="">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+world!+👋;I'm+Filipe+Rodrigues,+20+yo...;Nice+to+meet+you!&center=true&size=20">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+world!+👋;Eu sou+Filipe+Rodrigues,+20+anos...;Nice+to+meet+you!&center=true&size=20">
   </a>
 </h1>
 
