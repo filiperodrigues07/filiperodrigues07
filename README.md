@@ -9,9 +9,9 @@
 
 ### 
 
-- 🔭 Today I work with a Support Analyst, soon a Developer.
-- 👨🏻‍💻 Studying PHP, JavaScript, HTML and CSS
-- 🇧🇷 Brazil
+- 🔭 Trabalho atualmente como Analista de Suporte, mas nas horas vagas um Desenvolvedor.
+- 👨🏻‍💻 Estudando PHP, JavaScript, HTML e CSS
+- 🇧🇷  SC | Brasil
 
 
 <div>
@@ -36,7 +36,6 @@
     <a href="https://www.instagram.com/filipe_rodrigues07" target="_blank"> <img src= "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/filipe-rodrigues07/" target="_blank"> <img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="" target="_blank"> <img src= "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-    <a href="filiperodrigueshomework@gmail.com" target="_blank"> <img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </div>
 
 <p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/dantonbertuol/dantonbertuol/blob/output/github-contribution-grid-snake.svg"><img src="https://github.com/dantonbertuol/dantonbertuol/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;"></a></p>
