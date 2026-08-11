@@ -1,24 +1,18 @@
 <h1 align="center">Oi, eu sou o Filipe 👋</h1>
 
 <p align="center">
-  Gerente de Suporte e Implantação, e nas horas vagas Desenvolvedor. Trabalho no dia a dia com <b>Firebird</b>, relatórios customizados em <b>Delphi</b> e dashboards em <b>Power BI</b> — e uso as horas livres pra evoluir como dev com <b>PHP</b>, <b>JavaScript</b>, <b>Node.js</b> e afins.
+  Gerente de Suporte e Implantação, estudando Ciências Contábeis e Engenharia de Software.
 </p>
 
 <p align="center">
-  🔭 Analista de Suporte | 👨🏻‍💻 Dev nas horas vagas &nbsp;·&nbsp; 🗄️ Firebird & Delphi no trabalho &nbsp;·&nbsp; 📊 Power BI &nbsp;·&nbsp;
+  🔭 Trabalhando em 2 projetos no momento &nbsp;·&nbsp; 📚 Contábeis & Eng. de Software &nbsp;·&nbsp; 🇧🇷 SC, Brasil
 </p>
 
 ---
 
-### 🚀 Projetos recentes
+### 🚀 No momento
 
-**Dashboard OS**
-Dashboard de Ordens de Serviço em tempo real, integrado a um ERP sobre Firebird 5.0, feito pra rodar em TV/painel de oficina. Lê os dados direto do banco, calcula atraso dinamicamente e organiza os cards por status (em aberto, em execução, aguardando peças). Tem um painel administrativo próprio (`/admin`) pra trocar logo, reconfigurar a conexão com o banco e ajustar o intervalo de atualização sem mexer em código — e roda como um agente de bandeja no Windows, empacotado num `.exe` único, sem precisar de Node instalado na máquina do cliente.
-> Stack: Node.js · Express · node-firebird · React · Vite · TailwindCSS · Firebird 5.0
-
-**Site Gestão**
-Site institucional para uma revenda autorizada de sistemas ERP/PDV/CRM, com catálogo de soluções, base de conhecimento (artigos, FAQs, vídeos, downloads) e formulários de contato integrados ao WhatsApp. Inclui um painel administrativo próprio para a equipe publicar e organizar conteúdo da base de conhecimento sem depender de desenvolvedor.
-> Stack: Next.js · TypeScript · Drizzle · Docker
+Trabalhando em dois projetos próprios, transitando entre algumas stacks diferentes.
 
 ---
 
