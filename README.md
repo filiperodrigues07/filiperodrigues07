@@ -1,11 +1,11 @@
 <h1 align="center">Oi, eu sou o Filipe 👋</h1>
 
 <p align="center">
-  Analista de Suporte de TI, e nas horas vagas Desenvolvedor. Trabalho no dia a dia com <b>Firebird</b>, relatórios customizados em <b>Delphi</b> e dashboards em <b>Power BI</b> — e uso as horas livres pra evoluir como dev com <b>PHP</b>, <b>JavaScript</b>, <b>Node.js</b> e afins.
+  Gerente de Suporte e Implantação, e nas horas vagas Desenvolvedor. Trabalho no dia a dia com <b>Firebird</b>, relatórios customizados em <b>Delphi</b> e dashboards em <b>Power BI</b> — e uso as horas livres pra evoluir como dev com <b>PHP</b>, <b>JavaScript</b>, <b>Node.js</b> e afins.
 </p>
 
 <p align="center">
-  🔭 Analista de Suporte | 👨🏻‍💻 Dev nas horas vagas &nbsp;·&nbsp; 🗄️ Firebird & Delphi no trabalho &nbsp;·&nbsp; 📊 Power BI &nbsp;·&nbsp; 🇧🇷 SC, Brasil
+  🔭 Analista de Suporte | 👨🏻‍💻 Dev nas horas vagas &nbsp;·&nbsp; 🗄️ Firebird & Delphi no trabalho &nbsp;·&nbsp; 📊 Power BI &nbsp;·&nbsp;
 </p>
 
 ---
