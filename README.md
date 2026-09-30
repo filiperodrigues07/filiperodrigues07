@@ -12,7 +12,7 @@
 
 ### 🚀 No momento
 
-Trabalhando em dois projetos próprios, transitando entre algumas stacks diferentes.
+Trabalhando em projetos próprios, transitando entre algumas stacks diferentes.
 
 ---
 
